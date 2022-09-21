@@ -1,5 +1,3 @@
-#!/bin/bash/env python3
-pow = __import__('11-pow').pow
-
+#!/bin/bash/python3
 def pow(a, b):
-return(a ** b)
+    return(a ** b)
